@@ -112,6 +112,11 @@ export function Footer() {
                 </Link>
               </li>
               <li>
+                <a href="tel:+17865423486" className="text-sm text-star-muted hover:text-star transition-colors font-light">
+                  +1 (786) 542-3486
+                </a>
+              </li>
+              <li>
                 <span className="text-sm text-star-muted font-light">
                   {t("shippingReturns")}
                 </span>

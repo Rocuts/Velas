@@ -3,7 +3,7 @@
 import { useTranslations } from "next-intl";
 import { AnimatedSection } from "@/components/shared/AnimatedSection";
 import { useState } from "react";
-import { Send, MapPin, Mail } from "lucide-react";
+import { Send, MapPin, Mail, Phone } from "lucide-react";
 
 export default function ContactPage() {
   const t = useTranslations("contact");
@@ -97,6 +97,12 @@ export default function ContactPage() {
             <div className="flex items-center gap-2">
               <MapPin size={16} strokeWidth={1.5} className="text-gold/60" />
               <span className="font-light">South Florida, USA</span>
+            </div>
+            <div className="flex items-center gap-2">
+              <Phone size={16} strokeWidth={1.5} className="text-gold/60" />
+              <a href="tel:+17865423486" className="font-light hover:text-gold transition-colors">
+                +1 (786) 542-3486
+              </a>
             </div>
             <div className="flex items-center gap-2">
               <Mail size={16} strokeWidth={1.5} className="text-gold/60" />
