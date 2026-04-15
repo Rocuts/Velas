@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "title": "Velaris — Light Your Cosmos",
+    "description": "Hand-poured celestial candles for women who move through the world with intention. Premium soy wax, phthalate-free fragrance, crafted in Florida."
+  },
+  "nav": {
+    "shop": "Shop",
+    "collections": "Collections",
+    "gifts": "Gifts",
+    "ourStory": "Our Story",
+    "journal": "Journal",
+    "search": "Search",
+    "cart": "Cart",
+    "account": "Account",
+    "menu": "Menu",
+    "close": "Close"
+  },
+  "hero": {
+    "headline": "Light your cosmos.",
+    "subheadline": "Hand-poured candles for women who move through the world with intention.",
+    "cta": "Shop the Collection"
+  },
+  "featured": {
+    "label": "Collections",
+    "headline": "The cosmos, distilled into flame.",
+    "description": "Each Velaris candle begins as a ritual — a slow pour, a chosen scent, a moment named. Explore collections shaped by the sky.",
+    "viewAll": "View All Collections"
+  },
+  "collections": {
+    "moonPhases": "Moon Phases",
+    "moonPhasesDesc": "Eight candles mapping the lunar cycle. Clean to complex, mirroring the moon's energy arc.",
+    "zodiac": "Zodiac",
+    "zodiacDesc": "Twelve candles, each with a sign-specific scent profile grounded in elemental astrology.",
+    "nebula": "Nebula",
+    "nebulaDesc": "Large-format prestige candles representing cosmic phenomena. Galaxy-effect vessels, gift-box ready.",
+    "floridaCosmos": "Florida Cosmos",
+    "floridaCosmosDesc": "Seasonal and geographically specific. Celestial identity meets local sense-memory."
+  },
+  "brandStory": {
+    "label": "Our Story",
+    "headline": "Some things begin in the dark.",
+    "text": "We started with a flame and a question: what does the universe smell like? Velaris was born in South Florida, poured by hand, and designed for the woman who finds ceremony in small things. Every candle is a sky, and every sky belongs to you.",
+    "cta": "Read Our Story"
+  },
+  "products": {
+    "label": "Bestsellers",
+    "headline": "Burn slowly. Feel everything.",
+    "addToCart": "Add to Cart",
+    "quickAdd": "Add",
+    "soldOut": "Sold Out",
+    "notifyMe": "Notify Me",
+    "scentProfile": "Scent Profile",
+    "burnTime": "Burn Time",
+    "size": "Size",
+    "ingredients": "Ingredients",
+    "howToUse": "How to Use",
+    "shipping": "Shipping",
+    "ritual": "Ritual Suggestion",
+    "specs": "Specifications"
+  },
+  "socialProof": {
+    "headline": "Lit by real women, across every cosmos.",
+    "reviewCount": "{count} reviews",
+    "averageRating": "{rating} out of 5"
+  },
+  "giftSets": {
+    "headline": "Give them the sky.",
+    "subheadline": "Curated gift sets for birthdays, manifestations, or no reason at all.",
+    "cta": "Shop Gift Sets",
+    "giftThis": "Gift This"
+  },
+  "newsletter": {
+    "headline": "Enter the orbit.",
+    "subtext": "New rituals, limited drops, and celestial dispatches — delivered to your inbox.",
+    "placeholder": "Your email",
+    "cta": "Join Velaris",
+    "success": "Welcome to the cosmos."
+  },
+  "trust": {
+    "handPoured": "Hand-poured in Florida",
+    "naturalWax": "100% natural soy wax",
+    "cleanFragrance": "Phthalate-free fragrance",
+    "fastShipping": "Ships within 3 business days"
+  },
+  "cart": {
+    "title": "Your Cart",
+    "empty": "Your cart is empty",
+    "subtotal": "Subtotal",
+    "shippingNote": "Shipping calculated at checkout",
+    "checkout": "Proceed to Checkout",
+    "continueShopping": "Continue Shopping",
+    "remove": "Remove",
+    "freeShipping": "Free shipping on orders over $65",
+    "freeShippingProgress": "${amount} away from free shipping"
+  },
+  "footer": {
+    "explore": "Explore",
+    "support": "Support",
+    "legal": "Legal",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "shippingReturns": "Shipping & Returns",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "tagline": "Light your cosmos.",
+    "copyright": "© {year} Velaris. All rights reserved.",
+    "madeIn": "Hand-poured with intention in South Florida."
+  },
+  "about": {
+    "headline": "Some things begin in the dark.",
+    "text1": "Velaris started the way most true things do — quietly, without a plan. In a small kitchen in South Florida, surrounded by late-night humidity and the kind of stillness that makes you think, our founder began pouring candles not to sell them, but to feel something. To make the ordinary luminous.",
+    "text2": "The name came from the stars. Velaris — a place imagined to be radiant, hidden, worth protecting. That felt right. Because a candle, at its best, does exactly that: it reveals something in a room, and something in you.",
+    "text3": "Every Velaris candle is hand-poured in small batches using 100% natural soy wax and premium fragrance oils that are phthalate-free and skin-safe. We work in slow, deliberate rounds — never rushing a pour, never scaling past what we can control.",
+    "text4": "Our customers are women who move with intention. Who light a candle before journaling, before a hard conversation, before a bath, before nothing at all. Who understand that atmosphere is not a luxury — it's a language.",
+    "text5": "We are based in Florida and proud to serve a bilingual community. Our candles are for all of you.",
+    "closingLine": "Welcome to the cosmos. It's yours."
+  },
+  "faq": {
+    "headline": "Questions & Answers",
+    "q1": "What are Velaris candles made of?",
+    "a1": "All Velaris candles are made with 100% natural soy wax and premium fragrance oils that are phthalate-free and skin-safe. Our wicks are unbleached cotton or sustainably sourced wood.",
+    "q2": "How long do the candles burn?",
+    "a2": "Our 8 oz candles burn for approximately 45-50 hours. Our 12 oz Nebula collection candles burn for approximately 65-70 hours. Always trim your wick to 1/4 inch before lighting.",
+    "q3": "Do you ship to all of the United States?",
+    "a3": "Yes! We ship to all 50 states. Orders over $65 qualify for free shipping. Standard delivery takes 3-5 business days.",
+    "q4": "Can I return or exchange a candle?",
+    "a4": "We accept returns on unused, unopened candles within 30 days of delivery. If your candle arrives damaged, contact us immediately and we'll make it right.",
+    "q5": "Are your candles vegan and cruelty-free?",
+    "a5": "Yes. All Velaris candles are 100% vegan and cruelty-free. We never test on animals.",
+    "q6": "Do you offer gift wrapping?",
+    "a6": "Yes! Add gift wrapping at checkout for $5. Each gift arrives in our signature celestial box with a handwritten note option."
+  },
+  "contact": {
+    "headline": "Reach out to us.",
+    "subtext": "We'd love to hear from you — whether it's about an order, a collaboration, or just to say hello.",
+    "name": "Name",
+    "email": "Email",
+    "orderNumber": "Order number (optional)",
+    "message": "Message",
+    "send": "Send Message",
+    "success": "Message sent. We'll be in touch."
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "viewCollection": "View Full Collection",
+    "exploreNow": "Explore Now",
+    "beginRitual": "Begin the Ritual",
+    "shareLight": "Share Your Light",
+    "joinWaitlist": "Join the Waitlist",
+    "from": "From"
+  }
+}

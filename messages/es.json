@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "title": "Velaris — Ilumina Tu Cosmos",
+    "description": "Velas celestiales artesanales para mujeres que habitan el mundo con propósito. Cera de soya premium, fragancia sin ftalatos, elaboradas en Florida."
+  },
+  "nav": {
+    "shop": "Tienda",
+    "collections": "Colecciones",
+    "gifts": "Regalos",
+    "ourStory": "Nuestra Historia",
+    "journal": "Diario",
+    "search": "Buscar",
+    "cart": "Carrito",
+    "account": "Mi Cuenta",
+    "menu": "Menú",
+    "close": "Cerrar"
+  },
+  "hero": {
+    "headline": "Ilumina tu cosmos.",
+    "subheadline": "Velas artesanales para mujeres que habitan el mundo con propósito.",
+    "cta": "Ver la Colección"
+  },
+  "featured": {
+    "label": "Colecciones",
+    "headline": "El cosmos, convertido en llama.",
+    "description": "Cada vela Velaris nace como un ritual: una colada lenta, un aroma elegido, un instante nombrado. Explora colecciones inspiradas en el cielo.",
+    "viewAll": "Ver Todas las Colecciones"
+  },
+  "collections": {
+    "moonPhases": "Fases Lunares",
+    "moonPhasesDesc": "Ocho velas que trazan el ciclo lunar. De lo limpio a lo complejo, reflejando el arco energético de la luna.",
+    "zodiac": "Zodiaco",
+    "zodiacDesc": "Doce velas, cada una con un perfil aromático único basado en la astrología elemental.",
+    "nebula": "Nebulosa",
+    "nebulaDesc": "Velas de gran formato y prestigio que representan fenómenos cósmicos. Envase galáctico, listas para regalar.",
+    "floridaCosmos": "Cosmos Florida",
+    "floridaCosmosDesc": "Estacionales y específicas de nuestra tierra. Identidad celestial con memoria sensorial local."
+  },
+  "brandStory": {
+    "label": "Nuestra Historia",
+    "headline": "Algunas cosas comienzan en la oscuridad.",
+    "text": "Empezamos con una llama y una pregunta: ¿a qué huele el universo? Velaris nació en el sur de la Florida, vaciada a mano, pensada para la mujer que encuentra ceremonia en lo cotidiano. Cada vela es un cielo, y cada cielo es tuyo.",
+    "cta": "Conoce Nuestra Historia"
+  },
+  "products": {
+    "label": "Los Más Vendidos",
+    "headline": "Enciéndela despacio. Siéntelo todo.",
+    "addToCart": "Agregar al Carrito",
+    "quickAdd": "Agregar",
+    "soldOut": "Agotada",
+    "notifyMe": "Avísame",
+    "scentProfile": "Perfil Aromático",
+    "burnTime": "Tiempo de Quemado",
+    "size": "Tamaño",
+    "ingredients": "Ingredientes",
+    "howToUse": "Cómo Usar",
+    "shipping": "Envío",
+    "ritual": "Sugerencia de Ritual",
+    "specs": "Especificaciones"
+  },
+  "socialProof": {
+    "headline": "Encendida por mujeres reales, en cada cosmos.",
+    "reviewCount": "{count} reseñas",
+    "averageRating": "{rating} de 5"
+  },
+  "giftSets": {
+    "headline": "Regálale el cielo.",
+    "subheadline": "Sets especiales para cumpleaños, manifestaciones, o simplemente porque sí.",
+    "cta": "Ver Sets de Regalo",
+    "giftThis": "Regálala"
+  },
+  "newsletter": {
+    "headline": "Entra en órbita.",
+    "subtext": "Nuevos rituales, lanzamientos exclusivos y novedades celestiales — directo a tu correo.",
+    "placeholder": "Tu correo electrónico",
+    "cta": "Únete a Velaris",
+    "success": "Bienvenida al cosmos."
+  },
+  "trust": {
+    "handPoured": "Vaciada a mano en Florida",
+    "naturalWax": "Cera de soya 100% natural",
+    "cleanFragrance": "Fragancia sin ftalatos",
+    "fastShipping": "Envío en 3 días hábiles"
+  },
+  "cart": {
+    "title": "Tu Carrito",
+    "empty": "Tu carrito está vacío",
+    "subtotal": "Subtotal",
+    "shippingNote": "Envío calculado al finalizar",
+    "checkout": "Ir a Pagar",
+    "continueShopping": "Seguir Comprando",
+    "remove": "Eliminar",
+    "freeShipping": "Envío gratis en pedidos mayores de $65",
+    "freeShippingProgress": "${amount} para envío gratis"
+  },
+  "footer": {
+    "explore": "Explorar",
+    "support": "Soporte",
+    "legal": "Legal",
+    "faq": "Preguntas Frecuentes",
+    "contact": "Contacto",
+    "shippingReturns": "Envíos y Devoluciones",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "tagline": "Ilumina tu cosmos.",
+    "copyright": "© {year} Velaris. Todos los derechos reservados.",
+    "madeIn": "Vaciada con intención en el sur de la Florida."
+  },
+  "about": {
+    "headline": "Algunas cosas comienzan en la oscuridad.",
+    "text1": "Velaris empezó como empiezan las cosas verdaderas: en silencio, sin un plan claro. En una pequeña cocina del sur de la Florida, rodeada de la humedad de las noches y de esa quietud que invita a pensar, nuestra fundadora comenzó a vaciar velas no para venderlas, sino para sentir algo. Para hacer luminoso lo cotidiano.",
+    "text2": "El nombre vino de las estrellas. Velaris — un lugar imaginado como radiante, escondido, digno de proteger. Eso resonó. Porque una vela, en su mejor versión, hace exactamente eso: revela algo en el cuarto, y algo dentro de ti.",
+    "text3": "Cada vela Velaris se vacía a mano en pequeñas series, usando cera de soya 100% natural y aceites de fragancia premium, libres de ftalatos y seguros para la piel. Trabajamos con calma y deliberación — sin apresurar ninguna colada, sin crecer más allá de lo que podemos cuidar.",
+    "text4": "Nuestras clientas son mujeres que se mueven con intención. Que encienden una vela antes de escribir en su diario, antes de una conversación difícil, antes de un baño, o antes de nada en particular. Mujeres que saben que la atmósfera no es un lujo — es un lenguaje.",
+    "text5": "Somos de la Florida y nos enorgullece servir a una comunidad bilingüe. Nuestras velas son para todas.",
+    "closingLine": "Bienvenida al cosmos. Es tuyo."
+  },
+  "faq": {
+    "headline": "Preguntas y Respuestas",
+    "q1": "¿De qué están hechas las velas Velaris?",
+    "a1": "Todas las velas Velaris están hechas con cera de soya 100% natural y aceites de fragancia premium, libres de ftalatos y seguros para la piel. Nuestras mechas son de algodón sin blanquear o madera de origen sustentable.",
+    "q2": "¿Cuánto duran las velas?",
+    "a2": "Nuestras velas de 8 oz duran aproximadamente 45-50 horas. Las velas de 12 oz de la colección Nebulosa duran aproximadamente 65-70 horas. Siempre recorta la mecha a 1/4 de pulgada antes de encender.",
+    "q3": "¿Hacen envíos a todo Estados Unidos?",
+    "a3": "¡Sí! Enviamos a los 50 estados. Pedidos mayores de $65 califican para envío gratis. La entrega estándar toma de 3 a 5 días hábiles.",
+    "q4": "¿Puedo devolver o cambiar una vela?",
+    "a4": "Aceptamos devoluciones de velas sin usar y sin abrir dentro de los 30 días posteriores a la entrega. Si tu vela llega dañada, contáctanos de inmediato y lo resolveremos.",
+    "q5": "¿Las velas son veganas y libres de crueldad animal?",
+    "a5": "Sí. Todas las velas Velaris son 100% veganas y libres de crueldad animal. Nunca hacemos pruebas en animales.",
+    "q6": "¿Ofrecen envoltura de regalo?",
+    "a6": "¡Sí! Agrega envoltura de regalo al finalizar tu compra por $5. Cada regalo llega en nuestra caja celestial con opción de nota escrita a mano."
+  },
+  "contact": {
+    "headline": "Escríbenos.",
+    "subtext": "Nos encantaría saber de ti — ya sea sobre un pedido, una colaboración, o simplemente para saludar.",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "orderNumber": "Número de orden (opcional)",
+    "message": "Mensaje",
+    "send": "Enviar Mensaje",
+    "success": "Mensaje enviado. Estaremos en contacto."
+  },
+  "common": {
+    "learnMore": "Saber Más",
+    "viewCollection": "Ver Colección Completa",
+    "exploreNow": "Explorar Ahora",
+    "beginRitual": "Inicia el Ritual",
+    "shareLight": "Comparte Tu Luz",
+    "joinWaitlist": "Únete a la Lista",
+    "from": "Desde"
+  }
+}
