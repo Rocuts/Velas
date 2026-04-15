@@ -117,6 +117,11 @@ export function Footer() {
                 </a>
               </li>
               <li>
+                <a href="https://wa.me/17865423486" target="_blank" rel="noopener noreferrer" className="text-sm text-star-muted hover:text-star transition-colors font-light">
+                  WhatsApp
+                </a>
+              </li>
+              <li>
                 <span className="text-sm text-star-muted font-light">
                   {t("shippingReturns")}
                 </span>
